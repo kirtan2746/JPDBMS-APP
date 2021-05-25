@@ -11,6 +11,7 @@ different roles. XMLHttpRequest is for fetching web resources within the browser
 represents an incoming request.
 
 The XMLHttpRequest object can be used to request data from a web server.
+
 ● Update a web page without reloading the page
 ● Request data from a server - after the page has loaded
 ● Receive data from a server - after the page has loaded
